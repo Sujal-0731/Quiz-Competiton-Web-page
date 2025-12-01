@@ -1,0 +1,564 @@
+{
+  "questions": [
+    {
+      "category_id": 1,
+      "category": "GK",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "question_np": "कुन देशलाई \"सूर्य उदाउने देश\" भनेर चिनिन्छ?",
+          "answer": "Japan",
+          "answer_np": "जापान"
+        },
+        {
+          "id": 2,
+          "question": "Which river is the longest in Nepal?",
+          "question_np": "नेपालको सबैभन्दा लामो नदी कुन हो?",
+          "answer": "Karnali / Ghaghara",
+          "answer_np": "कर्णाली / घघरा"
+        },
+        {
+          "id": 3,
+          "question": "What is the full form of IMF?",
+          "question_np": "IMF को पूर्ण रूप के हो?",
+          "answer": "International Monetary Fund",
+          "answer_np": "अन्तर्राष्ट्रिय मुद्रा कोष"
+        },
+        {
+          "id": 4,
+          "question": "What is the currency of Japan?",
+          "question_np": "जापानको मुद्रा के हो?",
+          "answer": "Yen",
+          "answer_np": "येन"
+        },
+        {
+          "id": 5,
+          "question": "Which country hosted the 2022 Winter Olympics?",
+          "question_np": "२०२२ को शीतकालीन ओलम्पिक खेल कुन देशले आयोजना गर्यो?",
+          "answer": "China",
+          "answer_np": "चीन"
+        },
+        {
+          "id": 6,
+          "question": "Who won the 2020 UEFA Champions League?",
+          "question_np": "२०२० युइएफए च्याम्पियन्स लिग कसले जित्यो?",
+          "answer": "Bayern Munich",
+          "answer_np": "बायर्न म्युनिख"
+        },
+        {
+          "id": 7,
+          "question": "Which company owns the brands \"WhatsApp\" and \"Instagram\"?",
+          "question_np": "व्हाट्सएप र इन्स्टाग्राम कुन कम्पनीको ब्रान्ड हो?",
+          "answer": "Meta",
+          "answer_np": "मेटा"
+        },
+        {
+          "id": 8,
+          "question": "What is the fear of water called?",
+          "question_np": "पानीको डरलाई के भनिन्छ?",
+          "answer": "Aquaphobia",
+          "answer_np": "एक्वाफोबिया"
+        },
+        {
+          "id": 9,
+          "question": "What does \"HTTP\" stand for in web addresses?",
+          "question_np": "वेब ठेगानामा \"HTTP\" को पूर्ण रूप के हो?",
+          "answer": "Hypertext Transfer Protocol",
+          "answer_np": "हाइपरटेक्स्ट ट्रान्सफर प्रोटोकल"
+        },
+        {
+          "id": 10,
+          "question": "Who is known as the Father of Computers?",
+          "question_np": "कम्प्युटरका पिताका रूपमा चिनिने व्यक्ति को हुन्?",
+          "answer": "Charles Babbage",
+          "answer_np": "चार्ल्स बबेज"
+        },
+        {
+          "id": 11,
+          "question": "What is the central bank of Nepal called?",
+          "question_np": "नेपालको केन्द्रीय बैंकको नाम के हो?",
+          "answer": "Nepal Rastra Bank",
+          "answer_np": "नेपाल राष्ट्र बैंक"
+        },
+        {
+          "id": 12,
+          "question": "Which country has won the most Olympic gold medals in total?",
+          "question_np": "कुल ओलम्पिक खेलमा सबैभन्दा धेरै गोल्ड मेडल कुन देशले जितेको छ?",
+          "answer": "United States",
+          "answer_np": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "id": 13,
+          "question": "Who is the only cricketer to score 100 international centuries?",
+          "question_np": "अन्तर्राष्ट्रिय क्रिकेटमा १०० शतकीय स्कोर गर्ने एक मात्र खेलाडी को हुन्?",
+          "answer": "Sachin Tendulkar",
+          "answer_np": "सचिन तेन्दुलकर"
+        },
+        {
+          "id": 14,
+          "question": "Which country hosted the last SAARC Summit in 2014?",
+          "question_np": "२०१४ मा अन्तिम SAARC शिखर सम्मेलन कुन देशले आयोजना गर्यो?",
+          "answer": "Nepal",
+          "answer_np": "नेपाल"
+        },
+        {
+          "id": 15,
+          "question": "What is the time difference between Greenwich Mean Time (GMT) and Nepal Standard Time (NST)?",
+          "question_np": "ग्रीनविच मीन टाइम (GMT) र नेपाल मानक समय (NST) बीच कति घण्टाको भिन्नता छ?",
+          "answer": "+5 hours 45 minutes",
+          "answer_np": "+५ घण्टा ४५ मिनेट"
+        },
+        {
+          "id": 16,
+          "question": "Which Asian country is known as the \"Land of the Thunder Dragon\"?",
+          "question_np": "कुन एशियाली देशलाई \"थन्डर ड्र्यागनको देश\" भनेर चिनिन्छ?",
+          "answer": "Bhutan",
+          "answer_np": "भुटान"
+        },
+        {
+          "id": 17,
+          "question": "In which group is Nepal placed for the 2026 ICC Men's T20 World Cup?",
+          "question_np": "२०२६ ICC पुरुष टी२० विश्वकपमा नेपाल कुन समूहमा परेको छ?",
+          "answer": "Group C",
+          "answer_np": "समूह C"
+        },
+        {
+          "id": 18,
+          "question": "Who is the current Home Minister of Nepal as of 2025?",
+          "question_np": "२०२५ अनुसार हालको नेपालका गृह मन्त्री को हुन्?",
+          "answer": "Om Prakash Aryal",
+          "answer_np": "ओम प्रकाश अर्याल"
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category": "SCIENCE",
+      "questions": [
+        {
+          "id": 19,
+          "question": "What physical quantity is defined as the rate of change of displacement with respect to time?",
+          "question_np": "स्थानान्तरणको समयसँग हुने परिवर्तनको दरलाई कुन भौतिक परिमाण भनिन्छ?",
+          "answer": "Velocity",
+          "answer_np": "वेग"
+        },
+        {
+          "id": 20,
+          "question": "Which metal is liquid at room temperature?",
+          "question_np": "कोठाको तापक्रममा तरल अवस्थामा रहने धातु कुन हो?",
+          "answer": "Mercury (Hg)",
+          "answer_np": "पारा (Hg)"
+        },
+        {
+          "id": 21,
+          "question": "Which is the longest bone in the human body?",
+          "question_np": "मानव शरीरमा सबैभन्दा लामो हड्डी कुन हो?",
+          "answer": "Femur",
+          "answer_np": "जाँघको हड्डी (फेमर)"
+        },
+        {
+          "id": 22,
+          "question": "Which planet has the largest number of natural satellites?",
+          "question_np": "सबैभन्दा धेरै उपग्रह भएको ग्रह कुन हो?",
+          "answer": "Saturn",
+          "answer_np": "शनि"
+        },
+        {
+          "id": 23,
+          "question": "Who invented the first practical telephone?",
+          "question_np": "पहिलो व्यावहारिक टेलिफोनको आविष्कार कसले गरे?",
+          "answer": "Alexander Graham Bell",
+          "answer_np": "एलेक्जान्डर ग्राहम बेल"
+        },
+        {
+          "id": 24,
+          "question": "Which is the largest mammal in the world?",
+          "question_np": "विश्वको सबैभन्दा ठूलो स्तनधारी कुन हो?",
+          "answer": "Blue Whale",
+          "answer_np": "नीलो ह्वेल"
+        },
+        {
+          "id": 25,
+          "question": "What gas do plants release during photosynthesis?",
+          "question_np": "बिरुवाहरूले प्रकाश संश्लेषणको बेलामा कुन ग्यास छोड्छन्?",
+          "answer": "Oxygen",
+          "answer_np": "अक्सिजन"
+        },
+        {
+          "id": 26,
+          "question": "Which instrument is used to measure atmospheric pressure?",
+          "question_np": "वायुमण्डलीय चाप नाप्ने यन्त्र कुन हो?",
+          "answer": "Barometer",
+          "answer_np": "बारोमिटर"
+        },
+        {
+          "id": 27,
+          "question": "What is the process of a solid changing into vapor without passing through the liquid state called?",
+          "question_np": "ठोस पदार्थले तरल अवस्था नबिगारी सिधै वाष्पमा परिणत हुने प्रक्रियालाई के भनिन्छ?",
+          "answer": "Sublimation",
+          "answer_np": "उत्स्फुल्लन"
+        },
+        {
+          "id": 28,
+          "question": "How many pairs of chromosomes are present in a human cell?",
+          "question_np": "मानव कोषमा कति जोडी क्रोमोसोमहरू हुन्छन्?",
+          "answer": "23 pairs",
+          "answer_np": "२३ जोडी"
+        },
+        {
+          "id": 29,
+          "question": "Which cell organelle is known as the \"powerhouse of the cell\"?",
+          "question_np": "कोषको \"ऊर्जा केन्द्र\" भनेर चिनिने अङ्ग कुन हो?",
+          "answer": "Mitochondria",
+          "answer_np": "माइटोकन्ड्रिया"
+        },
+        {
+          "id": 30,
+          "question": "Which phenomenon explains the bending of light in different media?",
+          "question_np": "विभिन्न माध्यममा प्रकाश बङ्गिने घटनालाई के भनिन्छ?",
+          "answer": "Refraction",
+          "answer_np": "अपवर्तन"
+        },
+        {
+          "id": 31,
+          "question": "What is the range of audible frequency for humans?",
+          "question_np": "मानवले सुन्न सक्ने ध्वनिको आवृत्तिको दायरा कति हो?",
+          "answer": "20 Hz – 20,000 Hz",
+          "answer_np": "२० हर्ट्ज – २०,००० हर्ट्ज"
+        },
+        {
+          "id": 32,
+          "question": "What is the SI unit of the amount of substance?",
+          "question_np": "पदार्थको मात्रा (amount of substance) को एसआई एकाइ के हो?",
+          "answer": "Mole (mol)",
+          "answer_np": "मोल (mol)"
+        },
+        {
+          "id": 33,
+          "question": "What is the standard frequency, in Hertz, of the alternating current (AC) used in Nepal's power supply?",
+          "question_np": "नेपालको विद्युत आपूर्तिमा प्रयोग हुने अल्टरनेटिङ करेन्ट (एसी) को मानक आवृत्ति हर्ट्जमा कति हो?",
+          "answer": "50 Hz",
+          "answer_np": "५० हर्ट्ज"
+        },
+        {
+          "id": 34,
+          "question": "What is the value of standard atmospheric pressure at sea level?",
+          "question_np": "समुद्री सतहमा मानक वायुमण्डलीय चापको मान कति हुन्छ?",
+          "answer": "760 mm of Hg or 101.3 kilopascals",
+          "answer_np": "७६० mm of Hg वा १०१.३ किलोपास्कल"
+        },
+        {
+          "id": 35,
+          "question": "What is the strongest known natural material on Earth?",
+          "question_np": "पृथ्वीमा पाइने सबैभन्दा बलियो प्राकृतिक सामग्री के हो?",
+          "answer": "Diamond",
+          "answer_np": "हीरा"
+        },
+        {
+          "id": 36,
+          "question": "What is the density of pure water at 4°C in grams per cubic centimeter (g/cm³)?",
+          "question_np": "४°C मा शुद्ध पानीको घनत्व ग्राम प्रति घन सेंटिमिटर (g/cm³) मा कति हुन्छ?",
+          "answer": "1 g/cm³",
+          "answer_np": "१ g/cm³"
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category": "CULTURAL",
+      "questions": [
+        {
+          "id": 37,
+          "question": "The temple is dedicated to which god?",
+          "question_np": "यो मन्दिर कुन देवताको हो?",
+          "image":"img-question/1.png",
+          "answer": "Lord Krishna",
+          "answer_np": "भगवान कृष्ण"
+        },
+        {
+          "id": 38,
+          "question": "What is the instrument shown in the picture called?",
+          "question_np": "तस्बिरमा देखाइएको बाजा/वाद्ययंत्रलाई के भनिन्छ?",
+          "image":"img-question/2.png",
+          "answer": "Tungna",
+          "answer_np": "टुङ्ना"
+        },
+        {
+          "id": 39,
+          "question": "Which nach do the characters shown in image belong to?",
+          "question_np": "तस्बिरमा देखिएका पात्रहरू कुन नचसँग सम्बन्धित छन्?",
+          "image":"img-question/3.png",
+          "answer": "Naagcha nach",
+          "answer_np": "नागचा नाच"
+        },
+        {
+          "id": 40,
+          "question": "Whose Statue is shown in the picture?",
+          "question_np": "तस्बिरमा देखाइएको मूर्ति को हुन्?",
+          "image":"img-question/4.png",
+          "answer": "Birupakchya",
+          "answer_np": "बिरुपाक्ष्य"
+        },
+        {
+          "id": 41,
+          "question": "Who is the centenarian cultural historian and poet shown in the picture, known as a living encyclopedia of Nepali culture?",
+          "question_np": "तस्बिरमा देखाइएको शताब्दीजीवी सांस्कृतिक इतिहासकार र कवि को हुन्, जसलाई नेपाली संस्कृतिको जीवन्त विश्वकोश भनिन्छ?",
+          "image": "img-question/5.jpg",
+          "answer": "Satya Mohan Joshi",
+          "answer_np": "सत्य मोहन जोशी"
+        },
+        {
+          "id": 42,
+          "question": "Identify this iconic stupa located within a UNESCO World Heritage Site.",
+          "question_np": "युनेस्को विश्व सम्पदा क्षेत्रभित्र रहेको यो प्रतिष्ठित स्तूपको नाम बताउनुहोस्।",
+          "image": "img-question/6.jpg",
+          "answer": "Boudhanath Stupa",
+          "answer_np": "बौद्धनाथ स्तूप"
+        },
+        {
+          "id": 43,
+          "question": "Identify this traditional Newari delicacy.",
+          "question_np": "यो पारम्परिक नेवारी व्यञ्जनको नाम बताउनुहोस्।",
+          "image": "img-question/7.jpg",
+          "answer": "Yomari",
+          "answer_np": "योमरी"
+        },
+        {
+          "id": 44,
+          "question": "Identify this traditional cap from Bhaktapur.",
+          "question_np": "यो भक्तपुरको पारम्परिक टोपीको नाम बताउनुहोस्।",
+          "image": "img-question/8.png",
+          "answer": "Bhadgaunle Topi (Also known as: Bhaktapur Topi, Velvet Topi, Shahi Topi)",
+          "answer_np": "भादगाउँले टोपी (अन्य नाम: भक्तपुरे टोपी, मखमली टोपी, शाही टोपी)"
+        },
+        {
+          "id": 45,
+          "question": "Identify this National Bibhuti (Luminary) of Nepal.",
+          "question_np": "नेपालको यस राष्ट्रिय विभूतिको नाम बताउनुहोस्।",
+          "image": "img-question/9.jpg",
+          "answer": "Mahaguru Phalgunanda Lingden",
+          "answer_np": "महागुरु फाल्गुनन्द लिङ्देन"
+        },
+        {
+          "id": 46,
+          "question": "Which famous chariot festival of Patan is depicted in this image?",
+          "question_np": "यस तस्बिरमा देखाइएको पाटनको प्रसिद्ध रथयात्रा कुन हो?",
+          "image": "img-question/10.jpg",
+          "answer": "Rato Machindranath Jatra",
+          "answer_np": "रातो मच्छिन्द्रनाथ जात्रा"
+        },
+        {
+          "id": 47,
+          "question": "To which specific ethnic group do these traditional jewelry pieces belong?",
+          "question_np": "यी पारम्परिक गहनाहरू कुन विशिष्ट जातीय समूहसँग सम्बन्धित छन्?",
+          "image": "img-question/11.jpeg",
+          "answer": "Tharu Community",
+          "answer_np": "थारू समुदाय"
+        },
+        {
+          "id": 48,
+          "question": "Identify this traditional game played with sea shells.",
+          "question_np": "समुद्री सीपीहरूले खेलिने यो पारम्परिक खेलको नाम बताउनुहोस्।",
+          "image": "img-question/12.jpg",
+          "answer": "Kauda",
+          "answer_np": "कौडा"
+        },
+        {
+          "id": 49,
+          "question": "Who built this monument?",
+          "question_np": "यो स्मारक कोसले बनाएका हुन्?",
+          "image": "img-question/13.jpg",
+          "answer": "Siddhi Narsingh Malla",
+          "answer_np": "सिद्धि नरसिंह मल्ल"
+        },
+        {
+          "id": 50,
+          "question": "Identify this traditional religious painting style of Nepal.",
+          "question_np": "नेपालको यो पारम्परिक धार्मिक चित्रकला शैलीको नाम बताउनुहोस्।",
+          "image": "img-question/14.jpg",
+          "answer": "Paubha",
+          "answer_np": "पौभा"
+        },
+        {
+          "id": 51,
+          "question": "Which architectural style is this temple built in?",
+          "question_np": "यो मन्दिर कुन वास्तुकला शैलीमा निर्माण गरिएको हो?",
+          "image": "img-question/15.jpg",
+          "answer": "Mughal/Rajput Style",
+          "answer_np": "मुगल/राजपूत शैली"
+        },
+        {
+          "id": 52,
+          "question": "Identify this sacred symbol often seen in temples and religious art.",
+          "question_np": "मन्दिर र धार्मिक कलामा देखिने यस पवित्र प्रतीकको नाम बताउनुहोस्।",
+          "image": "img-question/16.jpg",
+          "answer": "Swastika",
+          "answer_np": "स्वस्तिक"
+        },
+        {
+          "id": 53,
+          "question": "Identify this traditional farming tool used for harvesting.",
+          "question_np": "यो पारम्परिक कृषि उपकरणको नाम बताउनुहोस् जुन फसल कटाईको लागि प्रयोग गरिन्छ।",
+          "image": "img-question/17.jpg",
+          "answer": "Sickle (Hasiya)",
+          "answer_np": "हसिया"
+        },
+        {
+          "id": 54,
+          "question": "Identify this traditional Nepali instrument from the Panche Baja .",
+          "question_np": "पञ्चे बाजा समूहमा पर्ने यो पारम्परिक नेपाली बाजाको नाम बताउनुहोस्।",
+          "image": "img-question/18.jpg",
+          "answer": "Damaha",
+          "answer_np": "दमाहा"
+        }
+      ]
+    },
+    {
+      "category_id": 1,
+      "category": "RAPID FIRE ROUND",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which desert is the largest in Asia?",
+          "question_np": "एसियाको सबैभन्दा ठूलो मरुभूमि कुन हो?",
+          "answer": "Gobi Desert",
+          "answer_np": "गोबी मरुभूमि"
+        },
+        {
+          "id": 2,
+          "question": "In which district is the \"Fungfung\" waterfall located?",
+          "question_np": "\"फुङ्फुङ\" जलप्रपात कुन जिल्लामा अवस्थित छ?",
+          "answer": "Nuwakot",
+          "answer_np": "नुवाकोट"
+        },
+        {
+          "id": 3,
+          "question": "How many municipalities are present in Nepal?",
+          "question_np": "नेपालमा कति वटा नगरपालिका छन्?",
+          "answer": "283",
+          "answer_np": "२८३"
+        },
+        {
+          "id": 4,
+          "question": "Who is the composer of National Anthem of Nepal?",
+          "question_np": "नेपालको राष्ट्रिय गानका रचनाकार को हुन्?",
+          "answer": "Byakul Maila",
+          "answer_np": "ब्याकुल माईला"
+        },
+        {
+          "id": 5,
+          "question": "Who is the first women chief justice of Nepal?",
+          "question_np": "नेपालकी पहिलो महिला प्रधान न्यायाधीश को हुन्?",
+          "answer": "Sushila Karki",
+          "answer_np": "सुशीला कार्की"
+        },
+        {
+          "id": 6,
+          "question": "Who is founder of Microsoft?",
+          "question_np": "माइक्रोसफ्टका संस्थापक को हुन्?",
+          "answer": "Bill Gates",
+          "answer_np": "बिल गेट्स"
+        },
+        {
+          "id": 7,
+          "question": "Which country has won the most FIFA world cup title?",
+          "question_np": "सबैभन्दा धेरै फिफा विश्वकप उपाधि कुन देशले जितेको छ?",
+          "answer": "Brazil",
+          "answer_np": "ब्राजिल"
+        },
+        {
+          "id": 8,
+          "question": "Who won Ballon d'or in 2021 AD?",
+          "question_np": "२०२१ ईस्वीमा ब्यालन डि'ओर कसले जिते?",
+          "answer": "Lionel Messi",
+          "answer_np": "लियोनेल मेस्सी"
+        },
+        {
+          "id": 9,
+          "question": "What is Study of Fossils called?",
+          "question_np": "जीवावशेषको अध्ययनलाई के भनिन्छ?",
+          "answer": "Paleontology",
+          "answer_np": "पुराजीवविज्ञान"
+        },
+        {
+          "id": 10,
+          "question": "What is Atomic number of Sulphur?",
+          "question_np": "सल्फरको आणविक संख्या कति हो?",
+          "answer": "16",
+          "answer_np": "१६"
+        },
+        {
+          "id": 11,
+          "question": "Which is the largest island in the world?",
+          "question_np": "विश्वको सबैभन्दा ठूलो टापु कुन हो?",
+          "answer": "Greenland",
+          "answer_np": "ग्रिनल्याण्ड"
+        },
+        {
+          "id": 12,
+          "question": "Name the lake located at highest altitude.",
+          "question_np": "सबैभन्दा अग्लो उचाइमा रहेको तालको नाम बताउनुहोस्।",
+          "answer": "Tilicho Lake",
+          "answer_np": "तिलिचो ताल"
+        },
+        {
+          "id": 13,
+          "question": "How many members are present in House of Representative in Nepal?",
+          "question_np": "नेपालको प्रतिनिधि सभामा कति जना सदस्य छन्?",
+          "answer": "275",
+          "answer_np": "२७५"
+        },
+        {
+          "id": 14,
+          "question": "Who designed Flag of Nepal?",
+          "question_np": "नेपालको झण्डाको डिजाइन कसले गरेका हुन्?",
+          "answer": "Shankhar Nath Rimal",
+          "answer_np": "शंखर नाथ रिमाल"
+        },
+        {
+          "id": 15,
+          "question": "Who is current Finance Minister of Nepal?",
+          "question_np": "नेपालका हालका वित्त मन्त्री को हुन्?",
+          "answer": "Bishnu Prashad Poudel",
+          "answer_np": "विष्णु प्रसाद पौडेल"
+        },
+        {
+          "id": 16,
+          "question": "Who is founder of Maiti Nepal?",
+          "question_np": "मैथी नेपालका संस्थापक को हुन्?",
+          "answer": "Anuradha Koirala",
+          "answer_np": "अनुराधा कोइराला"
+        },
+        {
+          "id": 17,
+          "question": "Who is founder of National Innovation Center?",
+          "question_np": "राष्ट्रिय अभिसृजन केन्द्रका संस्थापक को हुन्?",
+          "answer": "Mahavir Pun",
+          "answer_np": "महावीर पुन"
+        },
+        {
+          "id": 18,
+          "question": "Who won first of NPL(Nepal Premier League)?",
+          "question_np": "पहिलो नेपाल प्रिमियर लिग (NPL) कसले जित्यो?",
+          "answer": "Janakpur Bolts",
+          "answer_np": "जनकपुर बोल्ट्स"
+        },
+        {
+          "id": 19,
+          "question": "What is study of eye called?",
+          "question_np": "आँखाको अध्ययनलाई के भनिन्छ?",
+          "answer": "Ophthalmology",
+          "answer_np": "नेत्रविज्ञान"
+        },
+        {
+          "id": 20,
+          "question": "What is atomic mass of Tritium?",
+          "question_np": "ट्राइटियमको आणविक द्रव्यमान कति हो?",
+          "answer": "3 amu",
+          "answer_np": "३ amu"
+        }
+      ]
+    }
+  ]
+}

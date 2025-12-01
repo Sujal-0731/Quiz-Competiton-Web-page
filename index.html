@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Interschool Quiz Competition</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- HEADER -->
+  <div class="header">
+    <div class="logo-left">
+      <img src="img-logo/supported by.jpg" alt="Sponsor Logo" class="logo">
+      <span>Madhyapur Thimi Municipality</span>
+      <span>Ward no. 6</span>
+    </div>
+    <h1>Interschool Quiz Competition<br/>Organized by Woda Yuwa Sanjal–06</h1>
+    <div class="logo-right">
+      <img src="img-logo/yuwa club logo.jpg" alt="Club Logo" class="logo">
+      <span>Woda Yuwa Sanjal - 06</span>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- SCHOOL SETUP -->
+    <div id="school-setup-container"></div>
+
+    <!-- TIMER SETUP -->
+    <div id="global-timer" class="global-timer" style="display: none;">
+      <div class="timer-container">
+        <div id="timer" class="timer-display">30</div>
+        <button id="start-timer-btn" class="btn btn-primary">Start Timer</button>
+      </div>
+    </div>
+
+    <!-- ROUND SELECTION -->
+    <div id="round-selection" class="section">
+      <div id="total-scores-bar" class="total-scores-bar"></div>
+      <h2>Select a Round</h2>
+      <div id="round-buttons" class="round-buttons"></div>
+    </div>
+
+    <!-- QUIZ SECTION -->
+    <div id="quiz-section" class="section quiz-section" style="display:none;">
+      <h2 id="topic-title" class="quiz-title"></h2>
+
+      <!-- CURRENT TEAM DISPLAY -->
+      <div id="current-team" class="current-team-display" style="display:none;"></div>
+
+      <!-- QUESTION NUMBER INPUT -->
+      <div id="qnum-box" class="qnum-box" style="display:none;">
+        <h3>Enter Question Number (1-18)</h3>
+        <div class="input-group">
+          <input id="qnum-input" type="number" min="1" max="18" class="qnum-input" />
+          <button id="load-q-btn" class="btn btn-primary">Load Question</button>
+        </div>
+        <div id="used-questions" class="used-questions"></div>
+      </div>
+
+
+
+      <!-- QUESTION & ANSWER SECTION -->
+      <div id="question-answer-section" style="display:none;">
+        <!-- QUESTION BOX -->
+        <div id="question-box" class="question-box">
+          <div class="question-content">
+            <!-- LEFT SIDE - QUESTIONS -->
+            <div class="questions-side">
+              <div class="question-line">
+                <div class="language-label">English Question:</div>
+                <div id="question-text-en" class="question-text"></div>
+              </div>
+              <div class="question-line">
+                <div class="language-label">नेपाली प्रश्न:</div>
+                <div id="question-text-np" class="question-text"></div>
+              </div>
+            </div>
+            
+            <!-- RIGHT SIDE - IMAGE -->
+            <div id="question-image-container" class="image-side" style="display: none;">
+              <img id="question-image" class="question-image" src="" alt="Question Image">
+            </div>
+          </div>
+        </div>
+        <!-- MESSAGE DISPLAY -->
+        <div id="message" class="message" style="display:block;"></div>
+        <!-- ANSWER BOX -->
+        <div id="answer-box" class="answer-box" style="display:none;">
+          <div class="answer-content">
+            <div class="answer-line">
+              <span class="answer-label">Answer (English):</span>
+              <div id="answer-text-en" class="answer-text"></div>
+            </div>
+            <div class="answer-line">
+              <span class="answer-label">उत्तर (नेपाली):</span>
+              <div id="answer-text-np" class="answer-text"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ACTION BUTTONS -->
+        <div class="action-buttons">
+          <button id="correct-btn" class="btn btn-success">Correct Answer</button>
+          <button id="show-answer-btn" class="btn btn-info">Show Answer</button>
+          <button id="pass-btn" class="btn btn-warning">Pass Question</button>
+          <button id="next-btn" class="btn btn-primary next-btn">Next Question</button>
+        </div>
+      </div>
+
+      <!-- CURRENT ROUND SCOREBOARD -->
+      <div class="scoreboard-section">
+        <h3>Current Round Scoreboard</h3>
+        <div id="scoreboard" class="scoreboard"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- OPTIONS BUTTON (Replaces individual control buttons) -->
+  <button id="options-btn" class="options-btn">⚙️</button>
+
+  <!-- OPTIONS MENU (Hidden by default) -->
+  <div id="options-menu" class="options-menu" style="display: none;">
+    <button id="manage-schools-btn" class="btn btn-outline">🏫 Manage Schools</button>
+    <button id="save-schools-btn" class="btn btn-outline">💾 Save Schools to File</button>
+    <button id="reset-schools-btn" class="btn btn-outline">🔄 Reset Schools</button>
+    <button id="update-score-btn" class="btn btn-outline">🛠️Update Score</button>
+    <button id="reset-all-btn" class="btn btn-danger">🗑️ Reset All Data</button>
+    <button id="close-options-btn" class="btn btn-secondary">Close</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
