@@ -659,6 +659,7 @@ function showQuestion() {
     // Display answer (hidden initially)
     document.getElementById('answer-text-en').textContent = question.answer;
     document.getElementById('answer-text-np').textContent = question.answer_np;
+     document.getElementById('message').style.display = 'none';
     document.getElementById('answer-box').style.display = 'none';
     
     // Setup timer
